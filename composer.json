@@ -1,5 +1,5 @@
 {
-    "name": "composer/testproject",
+    "name": "testproject",
     "description": "composer test project",
     "type": "library",
     "require": {
